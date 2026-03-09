@@ -106,18 +106,20 @@ Consulte o arquivo LICENSE para mais detalhes.
 
 ---
 
-# 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor
 
 <div align="center">
 
-<img src="https://github.com/RDEsley.png" width="100" alt="Richard Esley"/>
+<img src="https://github.com/RDEsley.png" width="100" style="border-radius:50%" alt="Richard Esley"/>
 
-**Richard Esley**  
-Desenvolvedor Full Stack | Apaixonado por tecnologia e boas interfaces
+**Richard Esley**
 
-Portfólio: https://certificates-richard-oliveira.vercel.app  
-GitHub: https://github.com/RDEsley  
-LinkedIn: https://www.linkedin.com/in/richardesley/
+*Desenvolvedor | Criando coisas legais com código*
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-25D366?style=for-the-badge&logo=vercel&logoColor=white)](https://richardesley-dev.vercel.app/)
+[![Web Currículo](https://img.shields.io/badge/Currículo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://curriculo-richard-oliveira.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDEsley)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardesley/)
 
 </div>
 
