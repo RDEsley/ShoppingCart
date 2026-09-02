@@ -1,0 +1,17 @@
+.products {
+  padding: 120px 20px 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.products__message {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 1rem;
+  grid-column: 1 / -1;
+  text-align: center;
+}
+
+.products__message--error {
+  color: #d83232;
+}
